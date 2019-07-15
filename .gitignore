@@ -56,3 +56,8 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# scratch files
+._scratch_folder_
+._scratch_folder_/
+scratch*.*
