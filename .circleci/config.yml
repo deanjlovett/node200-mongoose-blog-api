@@ -5,8 +5,7 @@ jobs:
       # specify the version you desire here
       - image: circleci/node:11.15
 
-    #working_directory: ~/sdcs/projects/djl-node200-mongoose-blog-api
-    working_directory: ~/repo
+    working_directory: ~/djl-node200-mongoose-blog-api
 
     steps:
       - checkout
